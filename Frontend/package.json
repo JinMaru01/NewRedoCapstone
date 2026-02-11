@@ -12,7 +12,7 @@
   "dependencies": {
     "@iconify/react": "^5.0.2",
     "@material-tailwind/react": "^2.1.10",
-    "axios": "^1.8.3",
+    "axios": "^1.13.5",
     "bootstrap": "^5.3.3",
     "flowbite-react": "^0.10.1",
     "html2pdf.js": "^0.10.3",
